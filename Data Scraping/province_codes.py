@@ -24,7 +24,7 @@ province_codes = {
     # "23": "TỈNH HÒA BÌNH",
     # "24": "TỈNH HÀ NAM",
     # "25": "TỈNH NAM ĐỊNH",
-    # "26": "TỈNH THÁI BÌNH",
+    "26": "TỈNH THÁI BÌNH",
     # "27": "TỈNH NINH BÌNH",
     # "28": "TỈNH THANH HÓA",
     # "29": "TỈNH NGHỆ AN",
@@ -62,5 +62,5 @@ province_codes = {
     # "61": "TỈNH CÀ MAU",
     # "62": "TỈNH ĐIỆN BIÊN",
     # "63": "TỈNH ĐẮK NÔNG",
-     "64": "TỈNH HẬU GIANG"
+    #  "64": "TỈNH HẬU GIANG"
 }
